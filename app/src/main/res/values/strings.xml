@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="artwork_image">%s</string>
+    <string name="artwork_title">%s</string>
+    <string name="artwork_artist">%s</string>
+    <string name="artwork_year">(%s)</string>
+
+    <string name="artwork_button_previous">Previous</string>
+    <string name="artwork_button_next">Next</string>
+
+</resources>
